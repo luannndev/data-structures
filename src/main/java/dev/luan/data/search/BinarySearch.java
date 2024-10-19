@@ -1,4 +1,4 @@
-package dev.luan.data.stack.search;
+package dev.luan.data.search;
 
 /**
  * This class provides methods for performing binary search on an array of integers.
